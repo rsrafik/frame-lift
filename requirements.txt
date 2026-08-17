@@ -1,0 +1,6 @@
+# Install torch first if you need a specific CUDA build - see README.
+torch>=2.0
+pillow>=9.0
+numpy>=1.22
+tqdm>=4.60
+certifi>=2023.7.22

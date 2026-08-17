@@ -1,0 +1,15 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Downloaded model weights (fetched automatically on first run)
+*.pth
+models/
+
+# Default output directory
+upscaled/
+
+.DS_Store
+.idea/
+.vscode/
